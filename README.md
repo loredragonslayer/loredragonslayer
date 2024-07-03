@@ -1,10 +1,8 @@
 ### Composing a Game Design Career, one Level at a Time 🎮🐲🎶
 
-Hail and well met! I welcome you to my humble profile 🧗‍♀️ 🙇‍♀️
-
 **Who Am I?**
 >Up-and-coming Game Designer 📝 🎲
->College Student studying at a top rated program and school 🎒
+>College Student studying at a top rated game program 🎒
 
 Current Status:
 - 🔭 Discovering my niche (in game design) 
