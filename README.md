@@ -5,7 +5,7 @@
 >College Student studying at a top rated game program 🎒
 
 Current Status:
-- 🔭 Discovering my niche (in game design) 
-- 🐉 Training myself in C# (first langauge ever)
+- 🔭 Discovering my game niche in game design 
+- 🐉 Training myself in game programming
 - 📖 Reading every book on "how to make video games"
 - 🏗️ Tinkering away on game projects
